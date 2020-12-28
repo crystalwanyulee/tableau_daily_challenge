@@ -10,24 +10,31 @@
 
 #### Challenge 1: The digital gender gap
 
-Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w44)
+Challenge Link: [MakeoverMonday](https://data.world/makeovermonday/2020w44)
 
 
 
 <p align='center'>
-    Original Graph<br>
+    <b>Original Graph</b><br>
     (Source: 
     <a href="https://theinclusiveinternet.eiu.com/explore/countries/performance?category=overall">OpFistula</a> 
-    )
+    )<br>
+    <img align='center' width=30%, src='https://media.data.world/dYmiAUUSDasC0oQh9H7Q_The%20digital%20gender%20divide.png'>
+    <br>
+    <br>
+    <b>Reproduction</b>
+        <br>
+    (<a href=''>Tableau Workbook</a>)
+    <img align='left' width=100%, src='images/day1_gender_gap.png'>
 </p>
 
-<img align='center' width=40%, src='https://media.data.world/dYmiAUUSDasC0oQh9H7Q_The%20digital%20gender%20divide.png'>
+
 
 <p align='center'>
-    Reproduction<br>
-    (<a href=''>Tableau Workbook</a>)
 
-<img align='left' width=100%, src='images/day1_gender_gap.png'>
+
+
+
 
 
 
@@ -46,11 +53,14 @@ Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w49-divergen
     (Source: 
     <a href="https://www.pewresearch.org/global/2020/11/23/americans-and-germans-head-into-2021-with-divergent-opinions-on-transatlantic-alliance/">Pew Research Center</a> 
     )
+    <br>
+    <img align='center' width=40%, src='https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/11/PG_2020.11.23_U.S.-Germany_0-01.png?resize=420,412'>
+
 </p>
 
 
 
-<img align='center' width=40%, src='https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/11/PG_2020.11.23_U.S.-Germany_0-01.png?resize=420,412'>
+
 
 <p align='center'>
     Reproduction<br>
