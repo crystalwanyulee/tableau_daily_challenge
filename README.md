@@ -117,13 +117,13 @@
 
 * Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day4_mental_disorder.twb)
 
-<img align='left' width=100%, src='images/day4_mental_disorder.png'>
+<img align='left' width=100%, src='images/day4_mental_disorder.png' style="zoom:80%;" >
 
 
 
 #### Challenge 10: The Rise of Soccer
 
-* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w24)
+* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w24), [CSV File for Hex Map](https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html)
 
 * Original Graph: [FIVETHIRTYEIGHT](https://fivethirtyeight.com/wp-content/uploads/2015/07/morris-datalab-wsoccer-1.png?w=575)
 
@@ -131,6 +131,3 @@
 
 <img align='left' width=100%, src='images/day4_women_soccer.png'>
 
-
-
-https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html
