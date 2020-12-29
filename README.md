@@ -106,3 +106,31 @@
 * Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day3_homosexuality_persists.twb)
 
 <img align='left' width=100%, src='images/day3_homosexuality_persists.png'>
+
+
+
+#### Challenge 9: Comparing common mental disorder by sex
+
+* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
+
+* Original Graph: [BBC](https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png)
+
+* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day4_mental_disorder.twb)
+
+<img align='left' width=100%, src='images/day4_mental_disorder.png'>
+
+
+
+#### Challenge 10: The Rise of Soccer
+
+* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w24)
+
+* Original Graph: [FIVETHIRTYEIGHT](https://fivethirtyeight.com/wp-content/uploads/2015/07/morris-datalab-wsoccer-1.png?w=575)
+
+* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day4_women_soccer.twb)
+
+<img align='left' width=100%, src='images/day4_women_soccer.png'>
+
+
+
+https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html
