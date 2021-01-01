@@ -99,11 +99,10 @@
 
 #### Challenge 8: The Global Divide on Homosexuality Persists
 
-* Data Source: [MakeoverMonday](The Global Divide on Homosexuality Persists)
-
+* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w29-the-global-divide-on-homosexuality-persists)
 * Original Graph: [Pew Research Center](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/06/PG_2020.06.25_Global-Views-Homosexuality_0-11.png)
-
-* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day3_homosexuality_persists.twb)
+* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day3_homosexuality_persists.twbx)
+* [Tableau Public](https://public.tableau.com/profile/crystal.lee5994#!/vizhome/day3_homosexuality_persists/Dashboard1?publish=yes)
 
 <img align='left' width=100%, src='images/day3_homosexuality_persists.png'>
 
@@ -112,10 +111,8 @@
 #### Challenge 9: Comparing common mental disorder by sex
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
-
 * Original Graph: [BBC](https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png)
-
-* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day4_mental_disorder.twb)
+* Reproduction: [Tableau Workbook](https://public.tableau.com/profile/crystal.lee5994#!/vizhome/day4_mental_disorder/Dashboard43?publish=yes)
 
 <img align='left' width=100%, src='images/day4_mental_disorder.png' style="zoom:80%;" >
 
