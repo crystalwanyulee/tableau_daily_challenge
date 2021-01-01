@@ -102,7 +102,7 @@
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w29-the-global-divide-on-homosexuality-persists)
 * Original Graph: [Pew Research Center](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/06/PG_2020.06.25_Global-Views-Homosexuality_0-11.png)
 * Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day3_homosexuality_persists.twbx)
-* [Tableau Public](https://public.tableau.com/profile/crystal.lee5994#!/vizhome/day3_homosexuality_persists/Dashboard1?publish=yes)
+* [Tableau Public](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/images/day3_homosexuality_persists.png?raw=true)
 
 <img align='left' width=100%, src='images/day3_homosexuality_persists.png'>
 
@@ -112,7 +112,7 @@
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
 * Original Graph: [BBC](https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png)
-* Reproduction: [Tableau Workbook](https://public.tableau.com/profile/crystal.lee5994#!/vizhome/day4_mental_disorder/Dashboard43?publish=yes)
+* Reproduction: [Tableau Workbook](https://public.tableau.com/views/day4_mental_disorder/Dashboard?:language=en&:display_count=y&:origin=viz_share_link)
 
 <img align='left' width=100%, src='images/day4_mental_disorder.png' style="zoom:80%;" >
 
@@ -124,7 +124,7 @@
 
 * Original Graph: [FIVETHIRTYEIGHT](https://fivethirtyeight.com/wp-content/uploads/2015/07/morris-datalab-wsoccer-1.png?w=575)
 
-* Reproduction: [Tableau Workbook](https://github.com/crystalwanyulee/tableau_daily_challenge/blob/main/workbooks/day4_women_soccer.twb)
+* Reproduction: [Tableau Workbook](https://public.tableau.com/views/day4_women_soccer/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
 <img align='left' width=100%, src='images/day4_women_soccer.png'>
 
