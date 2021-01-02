@@ -1,14 +1,8 @@
-# Tableau Daily Challenge
+# MakeoverMonday Challenges
 
 
 
-
-
-## Day 1
-
-
-
-#### Challenge 1: The digital gender gap
+## Challenge 1: The digital gender gap
 
 * Challenge Link: [MakeoverMonday](https://data.world/makeovermonday/2020w44)
 
@@ -20,9 +14,7 @@
 
 
 
-## Day 2
-
-#### Challenge 2: **Divergent Opinions on Transatlantic Alliance**
+## Challenge 2: **Divergent Opinions on Transatlantic Alliance**
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w49-divergent-opinions-on-transatlantic-alliance)
 
@@ -34,7 +26,7 @@
 
 
 
-#### Challenge 3: Can James Bond be black?
+## Challenge 3: Can James Bond be black?
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w5-brexit-bond)
 * Original Graph: [YouGov](https://yougov.co.uk/topics/entertainment/articles-reports/2018/10/02/idris-elba-publics-favourite-next-james-bond)
@@ -45,7 +37,7 @@
 
 ---
 
-#### Challenge 4: How much of your life the US has been at war
+## Challenge 4: How much of your life the US has been at war
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w6)
 
@@ -55,11 +47,7 @@
 
 <img align='left' width=100%, src='images/day2_us_war_life.png'>
 
-
-
-## Day 3
-
-#### Challenge 5: The Distribution of the World's Wealth (Voronoi Treemap)
+## Challenge 5: The Distribution of the World's Wealth (Voronoi Treemap)
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w7-world-wealth), [CSV File for Voronoi Treemap](https://ladataviz.com/2020/01/02/build-a-voronoi-treemap-in-tableau-in-two-steps/)
 
@@ -73,7 +61,7 @@
 
 
 
-#### Challenge 6: Self-reported Life Satisfaction vs GDP per capita
+## Challenge 6: Self-reported Life Satisfaction vs GDP per capita
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w7-world-wealth)
 
@@ -85,7 +73,7 @@
 
 
 
-#### Challenge 7: Visualizing 40 Years of Music Industry Sales
+## Challenge 7: Visualizing 40 Years of Music Industry Sales
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales)
 
@@ -97,7 +85,7 @@
 
 
 
-#### Challenge 8: The Global Divide on Homosexuality Persists
+## Challenge 8: The Global Divide on Homosexuality Persists
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w29-the-global-divide-on-homosexuality-persists)
 * Original Graph: [Pew Research Center](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/06/PG_2020.06.25_Global-Views-Homosexuality_0-11.png)
@@ -108,7 +96,7 @@
 
 
 
-#### Challenge 9: Comparing common mental disorder by sex
+## Challenge 9: Comparing common mental disorder by sex
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
 * Original Graph: [BBC](https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png)
@@ -118,7 +106,7 @@
 
 
 
-#### Challenge 10: The Rise of Soccer
+## Challenge 10: The Rise of Soccer
 
 * Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w24), [CSV File for Hex Map](https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html)
 
@@ -127,4 +115,15 @@
 * Reproduction: [Tableau Workbook](https://public.tableau.com/views/day4_women_soccer/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
 <img align='left' width=100%, src='images/day4_women_soccer.png'>
+
+
+
+## Challenge 11: Global Imports of Cocoa Beans
+
+* Data Source: [MakeoverMonday](https://data.world/makeovermonday/2020w52)
+
+* Reproduction: [Tableau Workbook](https://public.tableau.com/shared/Y36M2XZKS?:display_count=y&:origin=viz_share_link)
+
+
+<img align='left' width=100%, src='images/12_cocoa_beans.png'>
 
