@@ -127,6 +127,5 @@
 
 <img align='left' width=100%, src='images/12_cocoa_beans.png'>
 
-<iframe src="https://public.tableau.com/views/Globalimportofcocoabeans_16095487217230/Dashboard14?:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+
 
